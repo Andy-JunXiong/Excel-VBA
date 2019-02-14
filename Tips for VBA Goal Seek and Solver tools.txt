@@ -1,0 +1,7 @@
+Tips for VBA targeting problem and optimization calculation:
+1.targeting problem close to the target
+2.optimization can slove min, max and close calculation problems
+3.Goal Seel only can slove targering problem
+4.Solver can slove both targeting problem and optimization calculation
+5.Solver need to re-run when the input change and this is the main disadvantage, no live solution
+6.If we have a vector of inputs, slover needs to run n times
