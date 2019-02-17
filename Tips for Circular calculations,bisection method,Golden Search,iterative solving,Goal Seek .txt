@@ -1,0 +1,5 @@
+1.Circular calculations are live, meaning that if anything on the spreadsheet is modified, all calculations are re-evaluated
+2.The Golden Search method is used to find the minimum or maximum of a function
+3.The bisection method and iterative solving can both be utilized to find the zero(s) of a function
+4.The Goal Seek can be automated. However, it is not a live solution so if the inputs are chaged then the user must re-run the Goal Seek tool.
+5.The Bisection method can solve for both negative and positive roots
